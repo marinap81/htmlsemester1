@@ -1,0 +1,61 @@
+<html>
+<head>
+<style>
+p {
+  color: grey;
+  text-align: center;
+} 
+p1 {
+  color: black;
+  text-align: left;
+} 
+
+h1 {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  }
+  h2 {
+  color: black;
+  text-align: left;
+  }
+  
+p2 {
+  color: black;
+  text-align: left;
+}
+p.three {
+  border-style: dotted;
+  border-width: 2px;
+  border-color: black;
+}
+ 
+ p.four {
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+}
+
+
+</style>
+</head>
+</body>
+<p class="three"><h1></p>
+<h1>Hello World!</h1>
+
+
+<p>This website was made by lachlan van der Velden</p>
+<p class="three"><p></p>
+
+<p class="four"><p></p>
+<p><h2>I decided to put a list here because I can:<h2></p>
+
+<li>Im</li>
+  <li>Tea</li>
+  <li>an</li>
+  <li>un-ordered</li>
+  <li>list</li>
+  <p class="four"><p></p>
+ 
+
+</html>
